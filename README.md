@@ -1,8 +1,8 @@
 #      HELLO
 #
 ## languages that I know:
-### * [Python](https://python.org) ![Alt text](https://images.ctfassets.net/23aumh6u8s0i/6uBzrqHNLlSAoER6HtgDN0/accd8f871b1de37f472b94da4346afa2/python-hero)
-### * c#
+### * [Python](https://python.org)
+### * [c#](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/pl-pl/dotnet/csharp/&ved=2ahUKEwiJuoKQz5aLAxWTIxAIHWS4MAYQFnoECBwQAQ&usg=AOvVaw1mMXmHVC5jWIBiDyUWEqaL)
 ## I am currently learning cyber security 
 
 #
