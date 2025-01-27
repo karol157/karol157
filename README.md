@@ -1,7 +1,7 @@
 #      HELLO
 #
 ## languages that I know:
-### * Python 
+### * [Python](https://python.org) 
 ### * c#
 ## I am currently learning cyber security 
 
